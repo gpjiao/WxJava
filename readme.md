@@ -75,7 +75,6 @@
 1. 小程序：[喵星人贴吧助手(扫码关注)](http://p98ahz3tg.bkt.clouddn.com/miniappqrcode.jpg)
 1. 小程序：树懒揽书+
 1. 小程序：广廉快线，鹏城巴士等
-1. 小程序：360考试宝典
 1. 小程序：当燃挑战、sportlight轻灵运动
 1. 小程序：360考试宝典
 1. 公众号：中国电信上海网厅（sh_189）
@@ -83,6 +82,7 @@
 1. 公众号：宁夏生鲜365
 1. 公众号：通服货滴
 1. 公众号：神龙养车
+1. 公众号：沃音乐商务智能
 1. 公众号：[全民约跑健身便利店](http://www.oneminsport.com/)
 1. 公众号：[洽洽食品](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFM8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycDRPOXBZbVZib2UxMDAwME0wN2gAAgRIu4RbAwQAAAAA)、[洽洽合伙人](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFP8jwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyOUpJaU5VcXBlWTAxMDAwME0wN1oAAgSau4RbAwQAAAAA)
 1. 公众号和小程序：民医台（可自行搜索）
